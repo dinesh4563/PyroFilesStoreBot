@@ -7,9 +7,9 @@
         "store",
         "bot"
     ],
-    "repository": "https://github.com/AswinBot/PyroFilesStoreBot",
-    "website": "https://telegram.dog/Join_PadamPakalamVaanga",
-    "success_url": "https://t.me/Join_PadamPakalamVaanga",
+    "repository": "https://github.com/dinesh4563/PyroFilesStoreBot",
+    "website": "https://telegram.dog/New_Movies_EP",
+    "success_url": "https://t.me/New_Movies_EP",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
